@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+torch
+torchvision
+transformers
+tokenizers
+pillow
+numpy
+python-multipart
+scipy
+gdown
+pandas
+openpyxl
